@@ -1,7 +1,5 @@
 /* scrabble.cpp
-   CSC 116 - Fall 2018
-   
-   Complete the implementations of each of the functions below (declared in scrabble.hpp)
+   Functions below declared in scrabble.hpp
 
    Felipe Goldbach - 10/26/2018
 */
